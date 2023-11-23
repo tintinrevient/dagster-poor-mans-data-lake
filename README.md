@@ -18,6 +18,10 @@ Open http://localhost:3000 with your browser to see the project.
 
 You can start writing assets in `jaffle/assets/`. The assets are automatically loaded into the Dagster repository as you define them.
 
+![](pix/dagster.png)
+
+The assets can automatically track the data lineage.
+
 ## Development
 
 ### Adding new Python dependencies
