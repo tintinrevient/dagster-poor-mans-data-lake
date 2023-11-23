@@ -22,7 +22,11 @@ You can start writing assets in `jaffle/assets/`. The assets are automatically l
 
 The assets can automatically track the data lineage by its reference function name.
 
-## Test
+## Getting started
+
+![](pix/s3-bucket-to-dagster-app.png)
+
+## Playing around
 
 1. Start the local S3 service by `localstack start`.
 2. Create the S3 bucket by `awslocal s3 mb s3://datalake`.
