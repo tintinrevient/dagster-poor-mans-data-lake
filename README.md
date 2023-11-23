@@ -25,7 +25,7 @@ The assets can automatically track the data lineage by its reference function na
 ## Architecture
 
 <p float="left">
-    <img src="pix/s3-bucket-to-dagster-app.png" width="500 />
+    <img src="pix/s3-bucket-to-dagster-app.png" width="400" />
 </p>
 
 ## Playing around
