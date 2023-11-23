@@ -22,7 +22,7 @@ You can start writing assets in `jaffle/assets/`. The assets are automatically l
 
 The assets can automatically track the data lineage by its reference function name.
 
-## Getting started
+## Architecture
 
 ![](pix/s3-bucket-to-dagster-app.png)
 
